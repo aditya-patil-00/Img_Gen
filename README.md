@@ -6,11 +6,11 @@ Welcome to the Stable Diffusion Image Generation repository! This project includ
 
 # Notebooks
 
-text_to_image.ipynb
+txt2img_clip.ipynb
 
 This notebook demonstrates text-to-image generation using Stable Diffusion. Users can input a text description, and the model will generate an image based on the provided prompt. Additionally, the notebook calculates metrics to assess the quality of the generated image.
 
-image_to_image.ipynb
+Img2img_fid.ipynb
 
 This notebook explores image-to-image editing with Stable Diffusion. Users can input an image and use text prompts to modify it creatively. Similar to the text-to-image notebook, it includes code to evaluate the quality of the output image.
 
@@ -24,7 +24,7 @@ Refer to the Colab documentation for assistance with setting up your environment
 
 - Open the Desired Notebook
 
-- Double-click on either "text_to_image.ipynb" or "image_to_image.ipynb" in your Colab environment.
+- Double-click on either "txt2img_clip.ipynb" or "Img2img_fid.ipynb" in your Colab environment.
  Run the Notebook Cells
 
 - Click the "Run" button (play triangle) next to each code cell. Follow any prompts to mount your Google Drive or  upload necessary files.
