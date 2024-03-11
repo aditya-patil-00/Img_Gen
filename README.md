@@ -1,10 +1,10 @@
 # Stable Diffusion Image Generation
 
-#Overview
+# Overview
 
 Welcome to the Stable Diffusion Image Generation repository! This project includes two Colab notebooks that showcase the capabilities of Stable Diffusion models for generating and editing images. The notebooks are designed for text-to-image and image-to-image generation, providing a versatile approach to creative tasks.
 
-#Notebooks
+# Notebooks
 
 text_to_image.ipynb
 
@@ -14,13 +14,13 @@ image_to_image.ipynb
 
 This notebook explores image-to-image editing with Stable Diffusion. Users can input an image and use text prompts to modify it creatively. Similar to the text-to-image notebook, it includes code to evaluate the quality of the output image.
 
-#Requirements
+# Requirements
 
 This code is designed to be run in Google Colab notebooks.
 Ensure you have a running Colab instance with GPUs enabled for optimal performance.
 Refer to the Colab documentation for assistance with setting up your environment.
 
-#Instructions
+# Instructions
 
 - Open the Desired Notebook
 
@@ -29,10 +29,10 @@ Refer to the Colab documentation for assistance with setting up your environment
 
 - Click the "Run" button (play triangle) next to each code cell. Follow any prompts to mount your Google Drive or  upload necessary files.
 
-#Experiment with Prompts
+# Experiment with Prompts
 
 In the designated code cells, enter your text descriptions for image generation or modify input images with creative text prompts.
 
-#Visualize the Results
+# Visualize the Results
 
 The notebook will generate images based on your input prompts, accompanied by calculated quality metrics. These metrics can help assess factors such as realism, detail, and adherence to the prompt.
